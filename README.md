@@ -37,8 +37,7 @@
 
 ---
 
-## ⚙️ Automation (In Progress)
-
+## ⚙️ Automation 
 ### 🐍 Selenium (Python)
 - Used for: Browser automation and UI testing  
 - Experience Level: Learning  
